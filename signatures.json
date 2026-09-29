@@ -115,5 +115,14 @@
     "signed_at": "2026-09-29T11:59:47.628Z",
     "pull_request": 173,
     "evidence": "https://github.com/skopevoj/spoti.pw/pull/173"
+  },
+  {
+    "login": "nijnar01-spec",
+    "id": 333299949,
+    "cla": "1.0",
+    "via": "checkbox",
+    "signed_at": "2026-09-29T14:46:26.966Z",
+    "pull_request": 175,
+    "evidence": "https://github.com/skopevoj/spoti.pw/pull/175"
   }
 ]
