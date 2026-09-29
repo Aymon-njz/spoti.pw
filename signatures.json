@@ -106,5 +106,14 @@
     "signed_at": "2026-09-28T19:50:14.059Z",
     "pull_request": 171,
     "evidence": "https://github.com/skopevoj/spoti.pw/pull/171"
+  },
+  {
+    "login": "imjustql",
+    "id": 201175489,
+    "cla": "1.0",
+    "via": "checkbox",
+    "signed_at": "2026-09-29T11:59:47.628Z",
+    "pull_request": 173,
+    "evidence": "https://github.com/skopevoj/spoti.pw/pull/173"
   }
 ]
