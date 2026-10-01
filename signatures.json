@@ -124,5 +124,14 @@
     "signed_at": "2026-09-29T14:46:26.966Z",
     "pull_request": 175,
     "evidence": "https://github.com/skopevoj/spoti.pw/pull/175"
+  },
+  {
+    "login": "nghiphaam",
+    "id": 133509274,
+    "cla": "1.0",
+    "via": "checkbox",
+    "signed_at": "2026-10-01T10:54:08.009Z",
+    "pull_request": 187,
+    "evidence": "https://github.com/skopevoj/spoti.pw/pull/187"
   }
 ]
