@@ -142,5 +142,14 @@
     "signed_at": "2026-10-01T14:26:05.915Z",
     "pull_request": 188,
     "evidence": "https://github.com/skopevoj/spoti.pw/pull/188"
+  },
+  {
+    "login": "PranThow",
+    "id": 138300626,
+    "cla": "1.0",
+    "via": "checkbox",
+    "signed_at": "2026-10-02T12:38:28.128Z",
+    "pull_request": 192,
+    "evidence": "https://github.com/skopevoj/spoti.pw/pull/192"
   }
 ]
