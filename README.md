@@ -55,8 +55,9 @@ No IPA is distributed. Bring a decrypted **Spotify 9.1.78** IPA; you get an unsi
 ### Build with GitHub Actions
 
 Fork the repo, enable Actions, run **Build IPA from your own Spotify IPA**. It takes a direct link to
-your decrypted `.ipa` and hands the built IPA back as a workflow artifact. No Mac needed; the link is
-masked in the log and the result stays in your fork.
+your decrypted `.ipa`, patches it with the newest release and hands the IPA back as a workflow artifact.
+No Mac needed; the link is masked in the log and the result stays in your fork. A fork made before
+0.50 needs **Sync fork** first.
 
 ### Build on a Mac
 
